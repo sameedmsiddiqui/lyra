@@ -61,6 +61,8 @@ For `Lyra_example_streamlined.ipynb`:
 
 ## Citation
 
+This work was led by Krithik Ramesh and Sameed M. Siddiqui, with contributions from Albert Gu, Michael D. Mitzenmacher, and Pardis C. Sabeti. 
+
 If you use Lyra in your research, please cite the original paper:
 
 ```bibtex
