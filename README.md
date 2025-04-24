@@ -78,10 +78,6 @@ Or:
 
 Ramesh, K., Siddiqui, S.M., Gu, A., Mitzenmacher, M.D., Sabeti, P.C. (2025). Lyra: An Efficient and Expressive Subquadratic Architecture for Modeling Biological Sequences. *arXiv preprint arXiv:2503.16351*. [https://arxiv.org/abs/2503.16351](https://arxiv.org/abs/2503.16351)
 
-## Contributing
-
-*(Placeholder: Add contribution guidelines if applicable)*
-We welcome contributions! Please see `CONTRIBUTING.md` for details on how to submit pull requests, report issues, etc.
 
 ## License
 
