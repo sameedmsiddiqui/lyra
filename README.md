@@ -35,7 +35,7 @@ This hybrid approach effectively integrates local and global information while m
 
 ## Usage (Example Workflow)
 
-`Lyra_example_streamlined.ipynb` is a standalone notebook designed for user-friendly operation of Lyra, without requiring coding. More sophisticated pipelines may use run_relso.ipynb as an example. 
+`Lyra_example_streamlined.ipynb` is a standalone notebook designed for user-friendly operation of Lyra, without requiring coding. A simpler version of this notebook is Lyra_APA_Isoform_prediction.ipynb, which runs the same default task as the original Lyra_example_streamlined.ipynb, but without a widget-based interface for entry of new datasets. More sophisticated pipelines may use run_relso.ipynb as an example, which uses the optimized FlashFFTConv kernels for additional speedups. 
 
 For `Lyra_example_streamlined.ipynb`:
 1.  **Prepare Data:**
